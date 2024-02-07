@@ -1,0 +1,32 @@
+body, h1, h2, h3, p, ul, li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Navigation bar styles */
+.text-gray-600 {
+  color: #4a5568;
+}
+
+.container {
+  max-width: 100%;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #ffffff; /* Set your desired background color */
+}
+
+.nav-link {
+  margin-right: 1.5rem;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #1a202c; /* Set your desired hover color */
+}
+
+/* Add more styles based on your needs */
+/* ... */
